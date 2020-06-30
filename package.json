@@ -1,5 +1,5 @@
 {
-  "name": "oryxhelloworld",
+  "name": "@kichalla/oryxhelloworld",
   "version": "1.0.0",
   "description": "Hello World package for Microsoft Oryx",
   "main": "index.js",
